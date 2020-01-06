@@ -1,0 +1,23 @@
+# $FrauBSD: bdialog/.git-hooks/README 2020-01-06 17:18:37 +0000 freebsdfrau $
+
+!! ATTENTION DEVELOPERS AND CONTRIBUTORS !!
+
+To get RCS Keywords (like the FrauBSD one at the top of this file) to expand,
+follow these steps before using `git commit' in this project:
+
+   $ .git-hooks/install.sh
+
+Cheers!
+
+Supported keywords:
+
+	$Author: freebsdfrau $
+	$Branch: master $
+	$Date: 2020-01-06 17:18:37 +0000 $
+	$Header: .git-hooks/README 2020-01-06 17:18:37 +0000 freebsdfrau $
+	$Origin: https://github.com/FrauBSD/bdialog.git $
+	$Project: //github.com/FrauBSD/bdialog.git $
+	$RCSfile: README $
+	$Source: .git-hooks/README $
+	$FrauBSD: bdialog/.git-hooks/README 2020-01-06 17:18:37 +0000 freebsdfrau $
+
