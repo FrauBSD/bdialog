@@ -1,0 +1,15 @@
+# $FrauBSD: bdialog/NOTES 2020-05-11 11:19:01 -0700 freebsdfrau $
+
+Major goals of bdialog (in order of importance):
+
+1. Provide a BSD-licensed dialog utility for-use in FreeBSD base for the
+   installer (bsdinstall) and configurator (bsdconfig)
+
+2. Support terminal SIGWINCH (WINdow CHange SIGnal) event for live-resizing
+
+3. LTR language support when supported by the terminal/console environment
+
+4. Command-line compatibility with current /usr/bin/dialog
+
+5. API compatiblity with dialog(3) C library
+
